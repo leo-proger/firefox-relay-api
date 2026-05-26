@@ -1,4 +1,4 @@
-"""Public Client class – entry point for the library."""
+"""Public Client class - entry point for the library."""
 
 from __future__ import annotations
 
