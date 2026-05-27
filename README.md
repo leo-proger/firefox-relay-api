@@ -1,5 +1,9 @@
 # firefox-relay-api
 
+![downloads](https://img.shields.io/pypi/dm/firefox-relay-api?style=for-the-badge&link=https%3A%2F%2Fpypi.org%2Fproject%2Ffirefox-relay-api%2F)
+![version](https://img.shields.io/pypi/v/firefox-relay-api?pypiBaseUrl=https%3A%2F%2Fpypi.org&style=for-the-badge)
+![issues](https://img.shields.io/github/issues/leo-proger/firefox-relay-api?style=for-the-badge)
+
 Unofficial Python client for [Firefox Relay](https://relay.firefox.com/). Not affiliated with Mozilla.
 
 > ⚠️ The Firefox Relay API is **not officially documented** for third-party use. Endpoints and fields may change without
